@@ -9,12 +9,14 @@ email = 'hlm.javiergarin "at" gmail.com'
 
 [professional]
 currently-employed = true
-title = 'student development'
+title = 'illustrator'
+study = 'Software Development'
 employer = 'vacanty.'
 
 [bio]
 categories = [
   'generalist',
+  'coffee',
 ]
 interests = [
   'functional-programming',
