@@ -8,7 +8,7 @@ city = 'Chile'
 email = 'hlm.javiergarin "at" gmail.com'
 
 [professional]
-looking for work = false
+looking-for-work = true
 title = 'illustrator'
 study = 'Software Development'
 employer = '.'
