@@ -3,27 +3,32 @@
 ```toml
 
 [personal]
-name = 'Javier Garin'
-city = 'Cppo, Chile'
+name = 'Javier'
+city = 'Chile'
 email = 'hlm.javiergarin "at" gmail.com'
 
 [professional]
-currently-employed = true
+looking for work = false
 title = 'illustrator'
 study = 'Software Development'
-employer = 'vacanty.'
+employer = '.'
 
 [bio]
 categories = [
-  'generalist',
-  'coffee',
+  'passionate',
+  'coffee-user',
+  'observer',
+  'thorough'
 ]
 interests = [
   'functional-programming',
+  'write code',
+  'learn constantly',
   'RPG-maker',
   'open-source',
   'ilustrator',
-  'manga'
+  'manga reader',
+  'ragnarok online'
 ]
 programming-languages = [
   'html',
