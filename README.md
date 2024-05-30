@@ -5,7 +5,7 @@
 [personal]
 name = 'Javier'
 city = 'Chile'
-email = 'hlm.javiergarin "at" gmail.com'
+email = 'dev.javiergarin "at" gmail.com'
 
 [professional]
 looking-for-work = true
@@ -28,6 +28,7 @@ interests = [
   'open-source',
   'ilustrator',
   'manga reader',
+  'walking music',
   'ragnarok online'
 ]
 programming-languages = [
