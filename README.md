@@ -23,12 +23,10 @@ categories = [
 interests = [
   'functional-programming',
   'write code',
-  'learn constantly',
   'RPG-maker',
   'open-source',
   'ilustrator',
-  'manga reader',
-  'walking music',
+  'music',
   'ragnarok online'
 ]
 programming-languages = [
