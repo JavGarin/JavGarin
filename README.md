@@ -4,7 +4,7 @@
 
 [personal]
 name = 'Javier'
-city = 'Chile'
+city = 'Santiago'
 email = 'dev.javiergarin "at" gmail.com'
 
 [professional]
