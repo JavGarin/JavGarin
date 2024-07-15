@@ -33,6 +33,6 @@ programming-languages = [
   'html',
   'css',
   'js',
-  '-',
+  'Git',
   '-',
 ]
