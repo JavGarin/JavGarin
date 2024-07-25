@@ -20,7 +20,7 @@ categories = [
   'observer',
   'thorough',
 ]
-interests = [
+[interests] = [
   'functional-programming',
   'reading',
   'RPG-maker',
@@ -29,7 +29,7 @@ interests = [
   'music',
   'ragnarok online',
 ]
-programming-languages = [
+[programming-languages] = [
   'html',
   'css',
   'js',
