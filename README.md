@@ -11,7 +11,7 @@ email = 'dev.javiergarin "at" gmail.com'
 looking-for-work = true
 title = 'illustrator'
 study = 'Software Development'
-employer = 'false'
+employer = ' '
 
 [bio]
 categories = [
