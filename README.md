@@ -4,35 +4,35 @@
 
 [personal]
 name = 'Javier'
-city = 'Santiago'
+country = 'Chile'
 email = 'dev.javiergarin "at" gmail.com'
 
 [professional]
 looking-for-work = true
 title = 'illustrator'
 study = 'Software Development'
-employer = '.'
+employer = 'false'
 
 [bio]
 categories = [
   'passionate',
   'coffee-user',
   'observer',
-  'thorough'
+  'thorough',
 ]
 interests = [
   'functional-programming',
-  'write code',
+  'reading',
   'RPG-maker',
   'open-source',
   'ilustrator',
   'music',
-  'ragnarok online'
+  'ragnarok online',
 ]
 programming-languages = [
   'html',
   'css',
   'js',
-  'Git',
-  '-',
+  'git',
+  'bootstrap',
 ]
