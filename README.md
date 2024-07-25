@@ -29,7 +29,7 @@ interests = [
   'music',
   'ragnarok online',
 ]
-programming-languages = [
+skills = [
   'html',
   'css',
   'js',
