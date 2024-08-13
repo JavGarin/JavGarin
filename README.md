@@ -3,14 +3,14 @@
 ```toml
 
 [personal]
-name = 'Javier'
-country = 'Chile'
+name = 'javier'
+country = 'chile'
 email = 'dev.javiergarin "at" gmail.com'
 
 [professional]
 looking-for-work = true
 title = 'illustrator'
-study = 'Software Development'
+study = 'software development'
 employer = ' '
 
 [bio]
