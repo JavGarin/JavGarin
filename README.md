@@ -17,8 +17,8 @@ employer = ' '
 categories = [
   'passionate',
   'coffee-user',
-  'observer',
-  'thorough',
+  '',
+  '',
 ]
 interests = [
   'functional-programming',
