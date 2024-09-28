@@ -35,5 +35,5 @@ skills = [
   'js',
   'git',
   'github',
-  '',
+  'react',
 ]
