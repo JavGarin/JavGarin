@@ -5,7 +5,7 @@
 [personal]
 name = 'javier'
 country = 'chile'
-email = 'dev.javiergarin "at" gmail.com'
+email = 'hlm.javiergarin "at" gmail.com'
 
 [professional]
 looking-for-work = true
