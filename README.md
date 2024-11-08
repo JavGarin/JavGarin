@@ -15,8 +15,8 @@ employer = ' '
 
 [bio]
 categories = [
-  'passionate',
   'coffee-user',
+  '',
   '',
   '',
 ]
@@ -24,7 +24,6 @@ interests = [
   'functional-programming',
   'reading',
   'RPG-maker',
-  'open-source',
   'ilustrator',
   'music',
   'ragnarok online',
