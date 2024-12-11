@@ -21,7 +21,7 @@ categories = [
   '',
 ]
 interests = [
-  'functional-programming',
+  'programming',
   'reading',
   'RPG-maker',
   'ilustrator',
@@ -35,4 +35,5 @@ skills = [
   'git',
   'github',
   'react',
+  'sql',
 ]
