@@ -9,8 +9,8 @@ email = 'hlm.javiergarin "at" gmail.com'
 
 [professional]
 looking-for-work = true
-title = 'illustrator designer'
-study = 'software development'
+title = 'software development', 'illustrator designer'
+study = 'code'
 employer = ' '
 
 [bio]
