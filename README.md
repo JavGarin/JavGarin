@@ -33,7 +33,8 @@ skills = [
   'css',
   'js',
   'react',
+  'three.js'
   'nodejs',
   'sql',
-  '',
+  'mcp',
 ]
