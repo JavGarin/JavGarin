@@ -16,8 +16,8 @@ employer = ' '
 [bio]
 categories = [
   'coffee-user',
-  '',
-  '',
+  'books',
+  'technologies',
   '',
 ]
 interests = [
