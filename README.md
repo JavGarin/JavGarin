@@ -10,14 +10,14 @@ email = 'dev.javiergarin "at" gmail.com'
 [professional]
 looking-for-work = true
 title = 'software development, illustrator designer'
-study = 'code'
+study = 'true'
 employer = ' '
 
 [bio]
 categories = [
   'coffee-user',
   'books',
-  'technologies',
+  'tech',
   '',
 ]
 interests = [
