@@ -18,7 +18,7 @@ categories = [
   'coffee-user',
   'books',
   'tech',
-  '',
+  'games',
 ]
 interests = [
   'programming',
