@@ -10,22 +10,20 @@ email = 'dev.javiergarin "at" gmail.com'
 [professional]
 looking-for-work = true
 title = 'software development, illustrator designer'
-study = 'true'
-employer = ' '
+study = 'learn english'
+employer = 'vacanty'
 
 [bio]
 categories = [
   'coffee-user',
   'books',
   'tech',
-  'games',
 ]
 interests = [
   'programming',
   'reading',
   'RPG-maker',
-  'ilustrator',
-  'music',
+  'digital ilustrator',
   'ragnarok online',
 ]
 skills = [
@@ -33,9 +31,11 @@ skills = [
   'css',
   'js',
   'react',
-  'astro',
+  'python',
+  'typescript',
   'three.js',
   'nodejs',
   'sql',
   'mcp',
+  'ai agents',
 ]
