@@ -6,6 +6,7 @@
 name = 'javier'
 country = 'chile'
 email = 'dev.javiergarin "at" gmail.com'
+web = 'javiergarin.dev'
 
 [professional]
 looking-for-work = true
@@ -20,7 +21,7 @@ categories = [
   'tech',
 ]
 interests = [
-  'programming',
+  'futbol',
   'reading',
   'RPG-maker',
   'digital ilustrator',
