@@ -12,7 +12,7 @@ web = 'javiergarin.dev'
 looking-for-work = true
 title = 'software development, illustrator designer'
 study = 'learn english'
-employer = 'vacanty'
+employer = 'looking for work'
 
 [bio]
 categories = [
