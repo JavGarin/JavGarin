@@ -12,7 +12,7 @@ web = 'javiergarin.dev'
 looking-for-work = true
 title = 'software development, illustrator designer'
 study = 'learn english'
-employer = 'looking for work'
+employer = ' '
 
 [bio]
 categories = [
@@ -21,11 +21,11 @@ categories = [
   'tech',
 ]
 interests = [
-  'futbol',
+  'desing',
   'reading',
-  'RPG-maker',
+  'rpg-maker',
   'digital ilustrator',
-  'ragnarok online',
+  'mmorpg',
 ]
 skills = [
   'html',
