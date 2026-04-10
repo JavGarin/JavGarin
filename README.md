@@ -11,7 +11,7 @@ web = 'javiergarin.dev'
 [professional]
 looking-for-work = true
 title = 'software development, illustrator designer'
-study = 'learn english'
+study = 'languages'
 employer = ' '
 
 [bio]
