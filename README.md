@@ -12,7 +12,7 @@ web = 'javiergarin.dev'
 looking-for-work = true
 title = 'software development, illustrator designer'
 study = 'languages'
-employer = ' '
+employer = 'Atacama Dev'
 
 [bio]
 categories = [
